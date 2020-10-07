@@ -26,7 +26,7 @@ I used _Cura_ for this.
 
 * HDMI, USB, and lightguide openings and the holes for the threaded inserts don't need support; use the support blocking feature for that (Cura).
 
-##### Side pieces (Case-2 and Case-3)
+###### Side pieces (Case-2 and Case-3)
 
 * Printing the two side pieces at a 45°-angle on an edge results in a nicer surface finish and easier support removal. The fins end up a bit more fragile this way, compared to printing flat/face-up.
 
