@@ -1,6 +1,6 @@
 # GHF51-Case
 
-This is a 3D-printable case for the GHF51 single board computer.
+This is a 3D-printable case for the GHF51 single-board computer.
 
 ![GHF51 Case](images/assembled-back.png)
 
