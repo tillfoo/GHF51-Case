@@ -12,7 +12,7 @@ The parts were designed with [FreeCAD](https://freecadweb.org) 0.19.22522
 
 ### Printing
 
-The case was designed to be printed with an FFF/FDM printer with a 0.4mm-Ø nozzle.
+The case was designed to be printed with an FFF/FDM printer with a 0.4mm-Ø nozzle at 0.1mm layer height.
 
 The GHF51 heatsink can reach 70-80°C, which is beyond the thermal resistance of typical FFF 3D-printing plastics like PLA. I printed the case with _Extrudr Greentec Pro_ filament, which according to the manufacturer has a higher heat resistance. If it doesn't hold up to the temperatures, I'll write an update here.
 
