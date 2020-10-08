@@ -16,6 +16,10 @@ The case was designed to be printed with an FFF/FDM printer with a 0.4mm-Ø nozz
 
 The GHF51 heatsink can reach 70-80°C, which is beyond the thermal resistance of typical FFF 3D-printing plastics like PLA. I printed the case with _Extrudr Greentec Pro_ filament, which according to the manufacturer has a higher heat resistance. If it doesn't hold up to the temperatures, I'll write an update here.
 
+I printed at 220°C/60°C nozzle/bed temperature.
+
+Unless you've got an amazing(ly well configured) printer, expect to do some part cleanup, due to stringing/oozing and the somewhat intricate geometry.
+
 #### Slicing
 
 I used _Cura_ for this.
@@ -33,10 +37,6 @@ I used _Cura_ for this.
 * I had good results with tree-supports and brim.
 
 * Make sure to set the seam orientation to the back of the part. Otherwise the fins won't turn out as nicely.
-
-* I printed at 220°C/60°C nozzle/bed temperature.
-
-Unless you've got an amazing(ly well configured) printer, expect to do some part cleanup, due to stringing/oozing and the somewhat intricate geometry.
 
 ### Components
 
